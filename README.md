@@ -58,6 +58,9 @@ see [config/config.default.js](config/config.default.js) for more detail.
 
 Please open an issue [here](https://github.com/zdt1013/egg-ali-oss/issues).
 
+## Thanks
+[ali-oss](https://github.com/ali-sdk/ali-oss)
+
 ## License
 
 [MIT](LICENSE)
