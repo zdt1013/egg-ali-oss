@@ -42,12 +42,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/eggjs/egg-ali-oss.git"
+    "url": "git+https://github.com/zdt1013/egg-ali-oss.git"
   },
   "bugs": {
-    "url": "https://github.com/eggjs/egg/issues"
+    "url": "https://github.com/zdt1013/egg-ali-oss/issues"
   },
-  "homepage": "https://github.com/eggjs/egg-ali-oss#readme",
+  "homepage": "https://github.com/zdt1013/egg-ali-oss#readme",
   "author": "zdt",
   "license": "MIT"
 }
