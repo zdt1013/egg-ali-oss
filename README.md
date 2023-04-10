@@ -1,4 +1,4 @@
-# egg-ali-oss
+# egg-ali-oss6
 
 [![NPM version][npm-image]][npm-url]
 [![build status][travis-image]][travis-url]
