@@ -1,6 +1,6 @@
 {
   "name": "egg-ali-oss6",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "阿里OSS插件",
   "eggPlugin": {
     "name": "aliOss"
