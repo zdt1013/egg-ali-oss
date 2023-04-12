@@ -1,6 +1,6 @@
 {
   "name": "egg-ali-oss6",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "阿里OSS插件",
   "eggPlugin": {
     "name": "aliOss"
@@ -34,6 +34,7 @@
   "files": [
     "app.js",
     "agent.js",
+    "index.d.ts",
     "config",
     "lib",
     "app"
@@ -43,12 +44,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zdt1013/egg-ali-oss.git"
+    "url": "git+https://github.com/zdt1013/egg-ali-oss6.git"
   },
   "bugs": {
-    "url": "https://github.com/zdt1013/egg-ali-oss/issues"
+    "url": "https://github.com/zdt1013/egg-ali-oss6/issues"
   },
-  "homepage": "https://github.com/zdt1013/egg-ali-oss#readme",
+  "homepage": "https://github.com/zdt1013/egg-ali-oss6#readme",
   "author": "zdt",
   "license": "MIT"
 }
